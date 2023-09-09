@@ -6,7 +6,7 @@
 - ng-controller: todo.js에 있는 TodoListController이
 
 ```html
-<div ng-app="todoApp">
+<div ng-app="todoApp">312312312123
   <h2>Todo</h2>
   <div ng-controller="TodoListController as todoList">
     <span>{{todoList.remaining()}} of {{todoList.todos.length}} remaining</span>
