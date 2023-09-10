@@ -1,21 +1,18 @@
 <template>
   <div>
     <div class="titleContainer">
-      <h1>오늘 배운 건
-        <br>오늘 적자
-      </h1>
+      <h1>오늘 배운 건 <br />오늘 적자</h1>
 
       <div class="infoContainer">
-        <div class="name">Jay Jin's TIL</div>
+        <div class="name">lionlee TIL</div>
         <ul>
+          <!--
           <li>
             <a href="https://milooy.wordpress.com/">Blog</a>
           </li>
+          -->
           <li>
-            <a href="https://github.com/milooy">GitHub</a>
-          </li>
-          <li>
-            <a href="https://soundcloud.com/hellojayjin">SoundCloud</a>
+            <a href="https://github.com/lionleeee">GitHub</a>
           </li>
         </ul>
       </div>
@@ -23,8 +20,7 @@
   </div>
 </template>
 
-<script>
-</script>
+<script></script>
 
 <style>
 @import "https://fonts.googleapis.com/css?family=Gugi";
