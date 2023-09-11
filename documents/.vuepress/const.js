@@ -16,3 +16,8 @@ exports.GitList = [
   "Git/revert-certain-file",
 ];
 exports.BundlerList = [];
+
+
+exports.Architecture = [
+  "Architecture/architecture-1"
+];

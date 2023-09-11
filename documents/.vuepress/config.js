@@ -20,7 +20,12 @@ module.exports = {
       }, {
         title: 'Git',
         children: CONST.GitList
-      }, {
+      },
+      {
+        title: 'Architecture',
+        children: CONST.Architecture
+      },
+       {
         title: 'Module Bundler',
         children: CONST.BundlerList
       },
