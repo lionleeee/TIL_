@@ -19,7 +19,8 @@ exports.BundlerList = [];
 
 exports.CsharpList = [
   "CSharp/between-struct-and-class",
-  "CSharp/inheritance"
+  "CSharp/inheritance",
+  "CSharp/nullable"
   
 ];
 
