@@ -7,7 +7,7 @@
 
 @lionleeee 가 오늘 새로 배운 것을 다음의 규칙으로 commit 합니다. [thoughtbot til 참고](https://github.com/thoughtbot/til)
 <br/>
-해당 TIL은 [[Link](http://milooy.github.io/TIL/)](https://github.com/milooy/TIL) 을 참고하여 만들었습니다. 
+해당 TIL은 [[Link](http://milooy.github.io/TIL/)] 을 참고하여 만들었습니다. 
 
 ## 로컬에서 띄우기
 ```bash
