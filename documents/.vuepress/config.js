@@ -25,6 +25,10 @@ module.exports = {
         title: 'Architecture',
         children: CONST.Architecture
       },
+      {
+        title: 'CSharp',
+        children: CONST.CsharpList
+      },
        {
         title: 'Module Bundler',
         children: CONST.BundlerList
