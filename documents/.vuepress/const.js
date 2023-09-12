@@ -18,7 +18,9 @@ exports.GitList = [
 exports.BundlerList = [];
 
 exports.CsharpList = [
-  "CSharp/between-struct-and-class"
+  "CSharp/between-struct-and-class",
+  "CSharp/inheritance"
+  
 ];
 
 exports.Architecture = [
