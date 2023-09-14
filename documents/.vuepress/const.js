@@ -21,7 +21,8 @@ exports.BundlerList = [];
 exports.CsharpList = [
   "CSharp/between-struct-and-class",
   "CSharp/inheritance",
-  "CSharp/nullable"
+  "CSharp/nullable",
+  "CSharp/instance-method-call"
   
 ];
 
