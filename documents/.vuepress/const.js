@@ -23,7 +23,8 @@ exports.CsharpList = [
   "CSharp/inheritance",
   "CSharp/nullable",
   "CSharp/instance-method-call",
-  "CSharp/lambda-method"
+  "CSharp/lambda-method",
+  "CSharp/LINQ"
   
 ];
 
