@@ -24,8 +24,8 @@ exports.CsharpList = [
   "CSharp/between-struct-and-class",
   "CSharp/inheritance",
   "CSharp/nullable",
+  "CSharp/instance-method",
   "CSharp/lambda-method",
-  "CSharp/instance-method-call",
   "CSharp/LINQ"
   
 ];
