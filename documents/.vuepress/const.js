@@ -26,7 +26,8 @@ exports.CsharpList = [
   "CSharp/nullable",
   "CSharp/instance-method",
   "CSharp/lambda-method",
-  "CSharp/LINQ"
+  "CSharp/LINQ",
+  "CSharp/extract-part-of-string"
   
 ];
 
