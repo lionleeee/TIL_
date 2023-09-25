@@ -2,7 +2,7 @@
 
 #### 문제
 
-https://www.acmicpc.net/submit/11047/67159223
+https://www.acmicpc.net/problem/11047
 
 첫째 줄에 N과 K가 주어진다. (1 ≤ N ≤ 10, 1 ≤ K ≤ 100,000,000)
 

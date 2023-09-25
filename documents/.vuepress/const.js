@@ -3,7 +3,9 @@ exports.DailyCodingList = [
   "Daily-Coding/multiplication-and-sum-of-elements",
   "Daily-Coding/concatenated-number",
   "Daily-Coding/greedy-algorithm",
-  "Daily-Coding/coin-0"
+  "Daily-Coding/coin-0",
+  "Daily-Coding/atm"
+  
 
 ];
 
