@@ -30,7 +30,10 @@ exports.CsharpList = [
   "CSharp/instance-method",
   "CSharp/lambda-method",
   "CSharp/LINQ",
-  "CSharp/extract-part-of-string"
+  "CSharp/extract-part-of-string",
+  "CSharp/enumberable-range",
+  "CSharp/sequence-equal-md",
+  "CSharp/take",
   
 ];
 
