@@ -1,4 +1,4 @@
-#LINQ
+# LINQ
 
 LINQ란 Langulage Integrated Query의 약어로
 한굴어로는 `언어로 통합된 쿼리`라는 뜻
