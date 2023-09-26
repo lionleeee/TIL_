@@ -4,9 +4,8 @@ exports.DailyCodingList = [
   "Daily-Coding/concatenated-number",
   "Daily-Coding/greedy-algorithm",
   "Daily-Coding/coin-0",
-  "Daily-Coding/atm"
-  
-
+  "Daily-Coding/atm",
+  "Daily-Coding/lost-parenthesis"
 ];
 
 exports.AngularList = [
