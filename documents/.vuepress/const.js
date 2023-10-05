@@ -33,7 +33,7 @@ exports.CsharpList = [
   "CSharp/LINQ",
   "CSharp/extract-part-of-string",
   "CSharp/enumberable-range",
-  "CSharp/sequence-equal-md",
+  "CSharp/sequence-equal",
   "CSharp/take",
   
 ];
