@@ -6,7 +6,8 @@ exports.DailyCodingList = [
   "Daily-Coding/coin-0",
   "Daily-Coding/atm",
   "Daily-Coding/lost-parenthesis",
-  "Daily-Coding/minimum-rectangle"
+  "Daily-Coding/minimum-rectangle",
+  "Daily-Coding/mock-exam"
 ];
 
 exports.AngularList = [
