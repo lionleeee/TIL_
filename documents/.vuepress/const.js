@@ -36,6 +36,7 @@ exports.CsharpList = [
   "CSharp/enumberable-range",
   "CSharp/sequence-equal",
   "CSharp/take",
+  "CSharp/find-what-week.md",
   
 ];
 
