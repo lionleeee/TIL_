@@ -37,7 +37,7 @@ exports.CsharpList = [
   "CSharp/sequence-equal",
   "CSharp/take",
   "CSharp/find-what-week.md",
-  
+  "CSharp/big-number"
 ];
 
 exports.Architecture = [
