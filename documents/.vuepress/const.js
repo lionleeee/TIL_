@@ -7,7 +7,8 @@ exports.DailyCodingList = [
   "Daily-Coding/atm",
   "Daily-Coding/lost-parenthesis",
   "Daily-Coding/minimum-rectangle",
-  "Daily-Coding/mock-exam"
+  "Daily-Coding/mock-exam",
+  "Daily-Coding/big-number"
 ];
 
 exports.AngularList = [
@@ -37,7 +38,7 @@ exports.CsharpList = [
   "CSharp/sequence-equal",
   "CSharp/take",
   "CSharp/find-what-week.md",
-  "CSharp/big-number"
+  
 ];
 
 exports.Architecture = [
