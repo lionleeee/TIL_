@@ -41,5 +41,7 @@ exports.CsharpList = [
 ];
 
 exports.Architecture = [
-  "Architecture/architecture-1"
+  "Architecture/architecture-1",
+  "Architecture/Monolithic-vs-MSA-1",
+  
 ];
