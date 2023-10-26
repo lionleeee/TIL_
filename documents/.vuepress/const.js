@@ -47,3 +47,10 @@ exports.Architecture = [
   "Architecture/Monolithic-vs-MSA-2",
   
 ];
+
+exports.Book = [
+  "Book/DDD-1",
+  "Architecture/Monolithic-vs-MSA-1",
+  "Architecture/Monolithic-vs-MSA-2",
+  
+];

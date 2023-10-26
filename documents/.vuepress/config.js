@@ -17,7 +17,12 @@ module.exports = {
       {
         title: 'Daily Coding',
         children: CONST.DailyCodingList
-      }, {
+      },
+      {
+        title: 'Book',
+        children: CONST.Book
+      },
+       {
         title: 'Git',
         children: CONST.GitList
       },
